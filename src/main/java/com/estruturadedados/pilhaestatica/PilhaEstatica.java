@@ -1,4 +1,4 @@
-package com.estruturadedados;
+package com.estruturadedados.pilhaestatica;
 
 public class PilhaEstatica {
 
